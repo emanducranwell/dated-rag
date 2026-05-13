@@ -64,25 +64,14 @@ documents = []
 ids = []
 metadatas = []
 
-for object_group, records in data.items():
-    for record in records:
-        museum_number = clean(record.get("Museum number"))
+for index, chunk in enumerate(data[:500]):
+    documents.append(chunk["text"])
 
-        for chunk_type in ["core_facts", "description", "context"]:
-            text = make_chunk(record, chunk_type)
+    original_id = chunk.get("chunk_id", f"chunk_{index}")
+    safe_id = f"{index}_{original_id}"
 
-            if len(text) > 50:
-                chunk_id = f"{museum_number}_{chunk_type}"
-
-                documents.append(text)
-                ids.append(chunk_id)
-                metadatas.append({
-                    "museum_number": museum_number,
-                    "object_group": object_group,
-                    "chunk_type": chunk_type,
-                    "object_type": clean(record.get("Object type")),
-                    "title": clean(record.get("Title"))
-                })
+    ids.append(safe_id)
+    metadatas.append(chunk["metadata"])
 
 embeddings = model.encode(documents).tolist()
 
