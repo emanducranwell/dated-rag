@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2026-05-13T16:52:22.875615",
+    "visitor_question": "How did you get into the museum?",
+    "response": "I arrived here in 1897, though it wasn't a particularly dramatic entrance. I was a bit of a hand-me-down, bequeathed to the museum by Sir Augustus Wollaston Franks, having come to him from Captain Francis Charles Burton. It was a rather quiet way to join the collection, but I\u2019ve certainly made myself at home since.",
+    "retrieved_metadata": [
+      {
+        "museum_number": "124018",
+        "chunk_type": "context",
+        "production_date": "5thC BC-4thC BC",
+        "object_type": "armlet (object name); torc (object name)",
+        "object_name": "Oxus Treasure",
+        "culture": "Achaemenid",
+        "materials": "gold",
+        "location": "On display (Room 52 - Ancient Iran, Display Case 3)",
+        "object_group": "armlet ; torc (object name)"
+      },
+      {
+        "object_type": "amphora (object name)",
+        "culture": "East Greek Archaic II",
+        "production_date": "570 BC - 560 BC",
+        "materials": "pottery",
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 7)",
+        "object_name": "amphora",
+        "museum_number": "2006,L01.1",
+        "chunk_type": "context",
+        "object_group": "amphora"
+      },
+      {
+        "museum_number": "1856,0512.10",
+        "materials": "pottery",
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 8)",
+        "object_group": "amphora",
+        "culture": "Attic; Archaic Greek",
+        "object_type": "amphora (object name)",
+        "production_date": "560BC (circa)",
+        "object_name": "amphora",
+        "chunk_type": "context"
+      }
+    ],
+    "retrieved_chunks": [
+      "Curators Comments: wgt 8 oz. 140 grains\nAcq name (acq): Bequeathed by: Sir Augustus Wollaston Franks; From: Capt Francis Charles Burton\nAcq name (previous): Bequeathed by: Sir Augustus Wollaston Franks; From: Capt Francis Charles Burton\nAcq date: 1897\nExhibition history: Exhibited: 2023 4 May - 13 Aug, London, BM, G35, Luxury and Power: Persia to Greece 2006 7 Mar-11 Jun, Barcelona, Fundacion La Caixa, 'L'imperi Oblidat' 2005-2006 Sept-Jan, London, BM, 'Forgotten Empire' 1995-2005 17 Nov-Aug BM, G52/IRAN/28a 1994 16 Jun-23 Dec, BM, G49/IRAN/28a 1989 Temporary display, BM, Room 35 (Hinton St Mary mosaic staircase) 1975-ca 1990 Jul- BM, Iranian Room [IR], OT case 1931-ca 1939 BM, Room 20: Persian Room 1923-1931 BM, King Edward VII Building: Franks Display 1900- BM, Gold Ornament Room\nBib references: Dalton 1964a / The treasure of the Oxus with other examples of early oriental metal-work; Curtis & Tallis 2005 / Forgotten Empire: The world of Ancient Persia; Pope 1938 / Survey of Persian Art",
+      "Curators Comments: Published and discussed (at pp. 59-66, fig. 31), with further literature, in Villing, A. 2021, \u2018Between Apollo and Osiris: Egyptianising East Greek pottery, translating gods and cross-cultural interaction in the 6th century B.C.\u2019, Jahrbuch des Deutschen Arch\u00e4ologischen Instituts 136, 1-110, https://doi.org/10.34780/6ca4-47c7\nAcq name (excavator): Excavated by: Sir William Matthew Flinders Petrie\nAcq notes (acq): on loan from the collection of Herbert Cahn (HC 1175) and Petrie Museum, UCL (UC30035a-b).\nExhibition history: Exhibited: 2018 27 Mar-9 Sep, Los Angeles, Getty Centre, Egypt-Greece-Rome: Cultures in Contact",
+      "Curators Comments: BM Cat. Vases Gerhard, A. V. iv. 241; Ann. dell' Inst. 1831, p. 155, no. 429.\nAcq name (acq): Purchased from: Rogers (sale); Purchased through: John Webb; Purchased through: Harry Osborn Cureton; Purchased through: Campanari\nAcq name (previous): Purchased from: Rogers (sale); Purchased through: John Webb; Purchased through: Harry Osborn Cureton; Purchased through: Campanari\nAcq date: 1856\nExhibition history: Exhibited: 2000, Barcelona, Founding of the City\nBib references: Vase / Catalogue of Vases in the British Museum; CVA British Museum 3 / Corpus Vasorum Antiquorum: Great Britain 4, British Museum 3"
+    ]
+  }
+]
