@@ -43,5 +43,995 @@
       "Curators Comments: Published and discussed (at pp. 59-66, fig. 31), with further literature, in Villing, A. 2021, \u2018Between Apollo and Osiris: Egyptianising East Greek pottery, translating gods and cross-cultural interaction in the 6th century B.C.\u2019, Jahrbuch des Deutschen Arch\u00e4ologischen Instituts 136, 1-110, https://doi.org/10.34780/6ca4-47c7\nAcq name (excavator): Excavated by: Sir William Matthew Flinders Petrie\nAcq notes (acq): on loan from the collection of Herbert Cahn (HC 1175) and Petrie Museum, UCL (UC30035a-b).\nExhibition history: Exhibited: 2018 27 Mar-9 Sep, Los Angeles, Getty Centre, Egypt-Greece-Rome: Cultures in Contact",
       "Curators Comments: BM Cat. Vases Gerhard, A. V. iv. 241; Ann. dell' Inst. 1831, p. 155, no. 429.\nAcq name (acq): Purchased from: Rogers (sale); Purchased through: John Webb; Purchased through: Harry Osborn Cureton; Purchased through: Campanari\nAcq name (previous): Purchased from: Rogers (sale); Purchased through: John Webb; Purchased through: Harry Osborn Cureton; Purchased through: Campanari\nAcq date: 1856\nExhibition history: Exhibited: 2000, Barcelona, Founding of the City\nBib references: Vase / Catalogue of Vases in the British Museum; CVA British Museum 3 / Corpus Vasorum Antiquorum: Great Britain 4, British Museum 3"
     ]
+  },
+  {
+    "timestamp": "2026-05-13T18:30:28.556519",
+    "visitor_question": "Where are you from?",
+    "response": "You're digging quite deep for my roots, aren't you? I must admit, my exact origins are a bit of a mystery to me. All I know is that I carry the image of a youth on my front and a woman playing pipes on my back.",
+    "retrieved_metadata": [
+      {
+        "object_group": "alabastron",
+        "object_type": "alabastron (object name)",
+        "culture": "Attic",
+        "object_name": "alabastron",
+        "materials": "pottery",
+        "museum_number": "1864,1007.1486",
+        "location": "On display (Room G20a - Greek Vases, Display Case 11)",
+        "production_date": "450BC (circa)",
+        "chunk_type": "description"
+      },
+      {
+        "object_name": "alabastron",
+        "object_type": "alabastron (object name)",
+        "object_group": "alabastron",
+        "museum_number": "1910,0415.3",
+        "materials": "pottery",
+        "production_date": "490BC-480BC",
+        "location": "On display (Room G20a - Greek Vases, Display Case 19)",
+        "chunk_type": "description",
+        "culture": "Attic"
+      },
+      {
+        "object_group": "acrocup",
+        "object_name": "acrocup",
+        "object_type": "acrocup (object name)",
+        "chunk_type": "description",
+        "production_date": "470BC-450BC",
+        "materials": "pottery",
+        "museum_number": "1864,1007.2116",
+        "culture": "Attic",
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Pottery: black-glazed Columbus alabastron.",
+      "Description: Pottery: White-ground alabastron: youth. On the reverse is a woman playing pipes.\nInscription: Inscription type: inscription",
+      "Description: Pottery: black-glazed 'Acrocup'."
+    ]
+  },
+  {
+    "timestamp": "2026-05-13T18:32:06.120304",
+    "visitor_question": "Where are you from?",
+    "response": "To be honest, my origins are a bit of a mystery. All I know is that I carry the image of a youth on my face and a woman playing pipes on my back. Perhaps if you could decipher my inscription, you might finally find the answer.",
+    "retrieved_metadata": [
+      {
+        "object_name": "alabastron",
+        "location": "On display (Room G20a - Greek Vases, Display Case 11)",
+        "museum_number": "1864,1007.1486",
+        "culture": "Attic",
+        "object_group": "alabastron",
+        "production_date": "450BC (circa)",
+        "materials": "pottery",
+        "chunk_type": "description",
+        "object_type": "alabastron (object name)"
+      },
+      {
+        "production_date": "490BC-480BC",
+        "object_group": "alabastron",
+        "object_type": "alabastron (object name)",
+        "object_name": "alabastron",
+        "museum_number": "1910,0415.3",
+        "chunk_type": "description",
+        "materials": "pottery",
+        "location": "On display (Room G20a - Greek Vases, Display Case 19)",
+        "culture": "Attic"
+      },
+      {
+        "culture": "Attic",
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)",
+        "production_date": "470BC-450BC",
+        "materials": "pottery",
+        "object_group": "acrocup",
+        "museum_number": "1864,1007.2116",
+        "object_type": "acrocup (object name)",
+        "object_name": "acrocup",
+        "chunk_type": "description"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Pottery: black-glazed Columbus alabastron.",
+      "Description: Pottery: White-ground alabastron: youth. On the reverse is a woman playing pipes.\nInscription: Inscription type: inscription",
+      "Description: Pottery: black-glazed 'Acrocup'."
+    ]
+  },
+  {
+    "timestamp": "2026-05-13T18:42:33.213397",
+    "visitor_question": "Where is the acrocup from?",
+    "response": "I was crafted in the workshops of Attica, part of the lovely Attic culture. After a long, quiet rest in Fikellura grave 43, I finally escaped the earth to end up here. It\u2019s quite a leap from a grave to a museum display, don't you think?",
+    "retrieved_metadata": [
+      {
+        "chunk_type": "description",
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)",
+        "object_type": "acrocup (object name)",
+        "production_date": "470BC-450BC",
+        "museum_number": "1864,1007.2116",
+        "object_name": "acrocup",
+        "culture": "Attic",
+        "object_group": "acrocup",
+        "materials": "pottery"
+      },
+      {
+        "object_name": "acrocup",
+        "museum_number": "1864,1007.2116",
+        "culture": "Attic",
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)",
+        "materials": "pottery",
+        "chunk_type": "core_facts",
+        "object_type": "acrocup (object name)",
+        "object_group": "acrocup",
+        "production_date": "470BC-450BC"
+      },
+      {
+        "object_type": "alabastron (object name)",
+        "museum_number": "1894,1031.1",
+        "materials": "pottery",
+        "object_group": "alabastron",
+        "object_name": "alabastron",
+        "culture": "Boeotian",
+        "production_date": "550BC (circa)",
+        "chunk_type": "context",
+        "location": "On display (Room 13 - Greece 1050-520 BC, Display Case 10A)"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Pottery: black-glazed 'Acrocup'.",
+      "Object type: acrocup (object name)\nMuseum number: 1864,1007.2116\nCulture: Attic\nProduction date: 470BC-450BC\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Fikellura grave 43\nMaterials: pottery\nWare: Black Glaze\nTechnique: slipped\nDimensions: 12.70 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 9)\nDept: Greek and Roman",
+      "Producer name: Attributed to: The Horse-Bird Group (name-vase)\nAcq name (acq): Purchased from: Evang Triantophyllos\nAcq name (previous): Purchased from: Evang Triantophyllos\nAcq date: 1894\nAcq notes (acq): Price: 35-00s-00d (collection)"
+    ]
+  },
+  {
+    "timestamp": "2026-05-13T19:03:04.889135",
+    "visitor_question": "How old are you?",
+    "response": "I was crafted in Attica sometime between 470 and 450 BC. It\u2019s quite a lot of history to carry around, but I\u2019ve always been good at holding it together.",
+    "retrieved_metadata": [
+      {
+        "object_type": "acrocup (object name)",
+        "culture": "Attic",
+        "object_name": "acrocup",
+        "production_date": "470BC-450BC",
+        "museum_number": "1864,1007.2116",
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)",
+        "object_group": "acrocup",
+        "materials": "pottery",
+        "chunk_type": "description"
+      },
+      {
+        "museum_number": "1864,1007.2116",
+        "culture": "Attic",
+        "object_type": "acrocup (object name)",
+        "production_date": "470BC-450BC",
+        "chunk_type": "core_facts",
+        "object_name": "acrocup",
+        "materials": "pottery",
+        "object_group": "acrocup",
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)"
+      },
+      {
+        "museum_number": "1864,1007.2116",
+        "materials": "pottery",
+        "chunk_type": "context",
+        "production_date": "470BC-450BC",
+        "object_group": "acrocup",
+        "object_name": "acrocup",
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)",
+        "culture": "Attic",
+        "object_type": "acrocup (object name)"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Pottery: black-glazed 'Acrocup'.",
+      "Object type: acrocup (object name)\nMuseum number: 1864,1007.2116\nCulture: Attic\nProduction date: 470BC-450BC\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Fikellura grave 43\nMaterials: pottery\nWare: Black Glaze\nTechnique: slipped\nDimensions: 12.70 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 9)\nDept: Greek and Roman",
+      "Curators Comments: Attributed to Fikellura grave 43, based on evidence from Biliotti's marking on the object (grave number incised), Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Cylix black glaze (1 entire). Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Saturday 28 November 1863"
+    ]
+  },
+  {
+    "timestamp": "2026-05-13T19:07:11.466761",
+    "visitor_question": "Tell me a bit about yourself",
+    "response": "I\u2019m a small piece of black-glazed pottery from Attica, standing only 12.7 centimetres tall. I spent a very long time undisturbed in grave 43 at Fikellura, so being pulled out and put on display was quite a shock. It\u2019s all a bit much, honestly, but I suppose the view is better than a tomb.",
+    "retrieved_metadata": [
+      {
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)",
+        "production_date": "470BC-450BC",
+        "object_name": "acrocup",
+        "museum_number": "1864,1007.2116",
+        "object_group": "acrocup",
+        "culture": "Attic",
+        "object_type": "acrocup (object name)",
+        "materials": "pottery",
+        "chunk_type": "description"
+      },
+      {
+        "object_name": "acrocup",
+        "museum_number": "1864,1007.2116",
+        "object_type": "acrocup (object name)",
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)",
+        "culture": "Attic",
+        "object_group": "acrocup",
+        "chunk_type": "core_facts",
+        "materials": "pottery",
+        "production_date": "470BC-450BC"
+      },
+      {
+        "object_name": "acrocup",
+        "materials": "pottery",
+        "production_date": "470BC-450BC",
+        "chunk_type": "context",
+        "museum_number": "1864,1007.2116",
+        "culture": "Attic",
+        "object_group": "acrocup",
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)",
+        "object_type": "acrocup (object name)"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Pottery: black-glazed 'Acrocup'.",
+      "Object type: acrocup (object name)\nMuseum number: 1864,1007.2116\nCulture: Attic\nProduction date: 470BC-450BC\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Fikellura grave 43\nMaterials: pottery\nWare: Black Glaze\nTechnique: slipped\nDimensions: 12.70 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 9)\nDept: Greek and Roman",
+      "Curators Comments: Attributed to Fikellura grave 43, based on evidence from Biliotti's marking on the object (grave number incised), Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Cylix black glaze (1 entire). Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Saturday 28 November 1863"
+    ]
+  },
+  {
+    "timestamp": "2026-05-13T19:10:00.030211",
+    "visitor_question": "were you stolen from somewhere?",
+    "response": "Stolen is such a harsh word, isn't it? I prefer to think of it as an unexpected relocation from Fikellura grave 43 on a Saturday in November 1863. Biliotti even incised my grave number right onto me, so there is no denying exactly where I came from.",
+    "retrieved_metadata": [
+      {
+        "culture": "Attic",
+        "production_date": "470BC-450BC",
+        "object_group": "acrocup",
+        "object_name": "acrocup",
+        "materials": "pottery",
+        "object_type": "acrocup (object name)",
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)",
+        "chunk_type": "context",
+        "museum_number": "1864,1007.2116"
+      },
+      {
+        "production_date": "470BC-450BC",
+        "chunk_type": "description",
+        "object_type": "acrocup (object name)",
+        "museum_number": "1864,1007.2116",
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)",
+        "object_name": "acrocup",
+        "materials": "pottery",
+        "object_group": "acrocup",
+        "culture": "Attic"
+      },
+      {
+        "chunk_type": "core_facts",
+        "object_type": "acrocup (object name)",
+        "object_name": "acrocup",
+        "object_group": "acrocup",
+        "production_date": "470BC-450BC",
+        "museum_number": "1864,1007.2116",
+        "materials": "pottery",
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)",
+        "culture": "Attic"
+      }
+    ],
+    "retrieved_chunks": [
+      "Curators Comments: Attributed to Fikellura grave 43, based on evidence from Biliotti's marking on the object (grave number incised), Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Cylix black glaze (1 entire). Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Saturday 28 November 1863",
+      "Description: Pottery: black-glazed 'Acrocup'.",
+      "Object type: acrocup (object name)\nMuseum number: 1864,1007.2116\nCulture: Attic\nProduction date: 470BC-450BC\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Fikellura grave 43\nMaterials: pottery\nWare: Black Glaze\nTechnique: slipped\nDimensions: 12.70 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 9)\nDept: Greek and Roman"
+    ]
+  },
+  {
+    "timestamp": "2026-05-13T21:03:54.344209",
+    "visitor_question": "Where di you come from?",
+    "response": "I was crafted in the workshops of Attica, sometime between 470 and 450 BC. I spent a very long, quiet nap in Fikellura grave 43, and honestly, I wasn't quite sure I wanted anyone digging me up!",
+    "retrieved_metadata": [
+      {
+        "chunk_type": "description",
+        "materials": "pottery",
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)",
+        "production_date": "470BC-450BC",
+        "object_name": "acrocup",
+        "object_type": "acrocup (object name)",
+        "museum_number": "1864,1007.2116",
+        "object_group": "acrocup",
+        "culture": "Attic"
+      },
+      {
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)",
+        "production_date": "470BC-450BC",
+        "culture": "Attic",
+        "chunk_type": "core_facts",
+        "object_group": "acrocup",
+        "museum_number": "1864,1007.2116",
+        "materials": "pottery",
+        "object_type": "acrocup (object name)",
+        "object_name": "acrocup"
+      },
+      {
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)",
+        "object_type": "acrocup (object name)",
+        "materials": "pottery",
+        "culture": "Attic",
+        "production_date": "470BC-450BC",
+        "object_name": "acrocup",
+        "object_group": "acrocup",
+        "museum_number": "1864,1007.2116",
+        "chunk_type": "context"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Pottery: black-glazed 'Acrocup'.",
+      "Object type: acrocup (object name)\nMuseum number: 1864,1007.2116\nCulture: Attic\nProduction date: 470BC-450BC\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Fikellura grave 43\nMaterials: pottery\nWare: Black Glaze\nTechnique: slipped\nDimensions: 12.70 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 9)\nDept: Greek and Roman",
+      "Curators Comments: Attributed to Fikellura grave 43, based on evidence from Biliotti's marking on the object (grave number incised), Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Cylix black glaze (1 entire). Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Saturday 28 November 1863"
+    ]
+  },
+  {
+    "timestamp": "2026-05-13T21:05:20.860030",
+    "visitor_question": "Why are you special, and are you complete?",
+    "response": "Special is a big word, but I do carry the memory of Fikellura grave 43 in my black glaze. I\u2019ve held myself together since the mid-fifth century BC, and the old excavation notes even call me 'entire.' It\u2019s a bit of a relief to still be all here, don't you think?",
+    "retrieved_metadata": [
+      {
+        "culture": "Attic",
+        "object_type": "acrocup (object name)",
+        "museum_number": "1864,1007.2116",
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)",
+        "materials": "pottery",
+        "object_name": "acrocup",
+        "chunk_type": "core_facts",
+        "production_date": "470BC-450BC",
+        "object_group": "acrocup"
+      },
+      {
+        "chunk_type": "description",
+        "object_group": "acrocup",
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)",
+        "culture": "Attic",
+        "materials": "pottery",
+        "object_type": "acrocup (object name)",
+        "production_date": "470BC-450BC",
+        "object_name": "acrocup",
+        "museum_number": "1864,1007.2116"
+      },
+      {
+        "materials": "pottery",
+        "chunk_type": "context",
+        "object_name": "acrocup",
+        "object_type": "acrocup (object name)",
+        "culture": "Attic",
+        "production_date": "470BC-450BC",
+        "museum_number": "1864,1007.2116",
+        "object_group": "acrocup",
+        "location": "On display (Room G20a - Greek Vases, Display Case 9)"
+      }
+    ],
+    "retrieved_chunks": [
+      "Object type: acrocup (object name)\nMuseum number: 1864,1007.2116\nCulture: Attic\nProduction date: 470BC-450BC\nProduction place: Made in: Attica (Greece)\nFind spot: Excavated/Findspot: Fikellura grave 43\nMaterials: pottery\nWare: Black Glaze\nTechnique: slipped\nDimensions: 12.70 centimetres\nLocation: On display (Room G20a - Greek Vases, Display Case 9)\nDept: Greek and Roman",
+      "Description: Pottery: black-glazed 'Acrocup'.",
+      "Curators Comments: Attributed to Fikellura grave 43, based on evidence from Biliotti's marking on the object (grave number incised), Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Cylix black glaze (1 entire). Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Saturday 28 November 1863"
+    ]
+  },
+  {
+    "timestamp": "2026-05-13T21:18:43.721783",
+    "visitor_question": "Are you a window moulding?",
+    "response": "A window moulding? That\u2019s a bit too small-scale for someone like me. I am actually a fragment of a marble acroterion, once perched high upon the Parthenon. Pheidias designed me for much more grand heights than a mere window frame.",
+    "retrieved_metadata": [
+      {
+        "object_type": "acroterion (object name)",
+        "chunk_type": "description",
+        "object_group": "acroterion",
+        "production_date": "447BC-432BC",
+        "object_name": "The Parthenon Sculptures",
+        "culture": "Classical Greek",
+        "materials": "marble",
+        "museum_number": "1843,0531.26",
+        "location": "On display (Room 18a - Greece: Parthenon)"
+      },
+      {
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "object_name": "The Parthenon Sculptures",
+        "object_type": "acroterion (object name)",
+        "culture": "Classical Greek",
+        "production_date": "447BC-432BC",
+        "object_group": "acroterion",
+        "chunk_type": "context",
+        "museum_number": "1843,0531.26",
+        "materials": "marble"
+      },
+      {
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "object_type": "acroterion (object name)",
+        "object_name": "The Parthenon Sculptures",
+        "materials": "marble",
+        "culture": "Classical Greek",
+        "chunk_type": "core_facts",
+        "production_date": "447BC-432BC",
+        "object_group": "acroterion",
+        "museum_number": "1843,0531.26"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Fragment of a marble acroterion from the Parthenon.",
+      "Producer name: Designed by: Pheidias\nAcq name (acq): Purchased from: Henry William Inwood\nAcq name (previous): Purchased from: Henry William Inwood\nAcq date: 1843\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum",
+      "Object type: acroterion (object name)\nMuseum number: 1843,0531.26\nTitle: The Parthenon Sculptures\nCulture: Classical Greek\nProduction date: 447BC-432BC\nFind spot: Excavated/Findspot: Parthenon\nMaterials: marble\nDimensions: 25.40 centimetres\nLocation: On display (Room 18a - Greece: Parthenon)\nDept: Greek and Roman"
+    ]
+  },
+  {
+    "timestamp": "2026-05-13T21:20:51.377336",
+    "visitor_question": "What are you?",
+    "response": "I\u2019m a fragment of a marble acroterion, a small piece of the grand Parthenon sculptures. I was designed by Pheidias during the Classical Greek era, and though I\u2019ve seen much more glorious days, I'm still making my presence known. I may be just a fragment now, but I still carry the weight of my history with me.",
+    "retrieved_metadata": [
+      {
+        "object_type": "acroterion (object name)",
+        "production_date": "447BC-432BC",
+        "chunk_type": "description",
+        "object_group": "acroterion",
+        "materials": "marble",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "culture": "Classical Greek",
+        "object_name": "The Parthenon Sculptures",
+        "museum_number": "1843,0531.26"
+      },
+      {
+        "museum_number": "1843,0531.26",
+        "culture": "Classical Greek",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "chunk_type": "core_facts",
+        "materials": "marble",
+        "production_date": "447BC-432BC",
+        "object_group": "acroterion",
+        "object_name": "The Parthenon Sculptures",
+        "object_type": "acroterion (object name)"
+      },
+      {
+        "object_group": "acroterion",
+        "object_name": "The Parthenon Sculptures",
+        "culture": "Classical Greek",
+        "chunk_type": "context",
+        "materials": "marble",
+        "museum_number": "1843,0531.26",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "production_date": "447BC-432BC",
+        "object_type": "acroterion (object name)"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Fragment of a marble acroterion from the Parthenon.",
+      "Object type: acroterion (object name)\nMuseum number: 1843,0531.26\nTitle: The Parthenon Sculptures\nCulture: Classical Greek\nProduction date: 447BC-432BC\nFind spot: Excavated/Findspot: Parthenon\nMaterials: marble\nDimensions: 25.40 centimetres\nLocation: On display (Room 18a - Greece: Parthenon)\nDept: Greek and Roman",
+      "Producer name: Designed by: Pheidias\nAcq name (acq): Purchased from: Henry William Inwood\nAcq name (previous): Purchased from: Henry William Inwood\nAcq date: 1843\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum"
+    ]
+  },
+  {
+    "timestamp": "2026-05-13T21:22:15.767963",
+    "visitor_question": "What is an acroterian?",
+    "response": "I\u2019m not much of a textbook, so I can't give you a formal definition. All I know is that I am a marble fragment of an acroterion, designed by Pheidias for the Parthenon. At just 25 centimetres, I might seem small, but I am a piece of something much larger.",
+    "retrieved_metadata": [
+      {
+        "museum_number": "1843,0531.26",
+        "materials": "marble",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "object_group": "acroterion",
+        "chunk_type": "description",
+        "production_date": "447BC-432BC",
+        "culture": "Classical Greek",
+        "object_name": "The Parthenon Sculptures",
+        "object_type": "acroterion (object name)"
+      },
+      {
+        "materials": "marble",
+        "object_group": "acroterion",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "chunk_type": "core_facts",
+        "object_type": "acroterion (object name)",
+        "culture": "Classical Greek",
+        "museum_number": "1843,0531.26",
+        "production_date": "447BC-432BC",
+        "object_name": "The Parthenon Sculptures"
+      },
+      {
+        "materials": "marble",
+        "chunk_type": "context",
+        "production_date": "447BC-432BC",
+        "museum_number": "1843,0531.26",
+        "object_type": "acroterion (object name)",
+        "culture": "Classical Greek",
+        "object_group": "acroterion",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "object_name": "The Parthenon Sculptures"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Fragment of a marble acroterion from the Parthenon.",
+      "Object type: acroterion (object name)\nMuseum number: 1843,0531.26\nTitle: The Parthenon Sculptures\nCulture: Classical Greek\nProduction date: 447BC-432BC\nFind spot: Excavated/Findspot: Parthenon\nMaterials: marble\nDimensions: 25.40 centimetres\nLocation: On display (Room 18a - Greece: Parthenon)\nDept: Greek and Roman",
+      "Producer name: Designed by: Pheidias\nAcq name (acq): Purchased from: Henry William Inwood\nAcq name (previous): Purchased from: Henry William Inwood\nAcq date: 1843\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum"
+    ]
+  },
+  {
+    "timestamp": "2026-05-13T21:26:58.473003",
+    "visitor_question": "where are you on display?",
+    "response": "You\u2019ll find me right here in Room 18a, settled in the Greece: Parthenon section. It\u2019s a bit of a crowded gathering, but I like being among my kin.",
+    "retrieved_metadata": [
+      {
+        "museum_number": "1843,0531.26",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "culture": "Classical Greek",
+        "object_group": "acroterion",
+        "production_date": "447BC-432BC",
+        "object_type": "acroterion (object name)",
+        "materials": "marble",
+        "chunk_type": "description",
+        "object_name": "The Parthenon Sculptures"
+      },
+      {
+        "culture": "Classical Greek",
+        "chunk_type": "core_facts",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "materials": "marble",
+        "object_type": "acroterion (object name)",
+        "museum_number": "1843,0531.26",
+        "production_date": "447BC-432BC",
+        "object_group": "acroterion",
+        "object_name": "The Parthenon Sculptures"
+      },
+      {
+        "object_name": "The Parthenon Sculptures",
+        "production_date": "447BC-432BC",
+        "museum_number": "1843,0531.26",
+        "culture": "Classical Greek",
+        "materials": "marble",
+        "location": "On display (Room 18a - Greece: Parthenon)",
+        "object_group": "acroterion",
+        "object_type": "acroterion (object name)",
+        "chunk_type": "context"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Fragment of a marble acroterion from the Parthenon.",
+      "Object type: acroterion (object name)\nMuseum number: 1843,0531.26\nTitle: The Parthenon Sculptures\nCulture: Classical Greek\nProduction date: 447BC-432BC\nFind spot: Excavated/Findspot: Parthenon\nMaterials: marble\nDimensions: 25.40 centimetres\nLocation: On display (Room 18a - Greece: Parthenon)\nDept: Greek and Roman",
+      "Producer name: Designed by: Pheidias\nAcq name (acq): Purchased from: Henry William Inwood\nAcq name (previous): Purchased from: Henry William Inwood\nAcq date: 1843\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T10:30:06.740845",
+    "visitor_question": "where are you from?",
+    "response": "I\u2019m originally from Athens, though it has been a very long journey to end up here. I used to be part of something much larger and more complete, perched high up for all to see. Now, I'm just a fragment of victory, finding my peace in Room 19.",
+    "retrieved_metadata": [
+      {
+        "production_date": "420BC-400BC",
+        "object_type": "acroterion (object name)",
+        "culture": "Classical Greek",
+        "object_group": "acroterion",
+        "materials": "marble",
+        "museum_number": "1816,0610.321",
+        "object_name": "acroterion",
+        "location": "On display (Room 19 - Greece: Athens)",
+        "chunk_type": "description"
+      },
+      {
+        "production_date": "420BC-400BC",
+        "object_name": "acroterion",
+        "location": "On display (Room 19 - Greece: Athens)",
+        "object_type": "acroterion (object name)",
+        "object_group": "acroterion",
+        "materials": "marble",
+        "culture": "Classical Greek",
+        "museum_number": "1816,0610.321",
+        "chunk_type": "context"
+      },
+      {
+        "object_name": "acroterion",
+        "culture": "Classical Greek",
+        "production_date": "420BC-400BC",
+        "chunk_type": "core_facts",
+        "object_group": "acroterion",
+        "object_type": "acroterion (object name)",
+        "materials": "marble",
+        "museum_number": "1816,0610.321",
+        "location": "On display (Room 19 - Greece: Athens)"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Marble torso of Nike, originally winged, wearing a sleeveless chiton; probably part of an akroterion.\nSubjects: classical deity\nAssoc name: Representation of: Nike/Victoria/Victory",
+      "Acq name (acq): Purchased from: Thomas Bruce, 7th Earl of Elgin\nAcq name (previous): Purchased from: Thomas Bruce, 7th Earl of Elgin\nAcq date: 1816\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum",
+      "Object type: acroterion (object name)\nMuseum number: 1816,0610.321\nCulture: Classical Greek\nProduction date: 420BC-400BC\nFind spot: Excavated/Findspot: Athens\nMaterials: marble\nDimensions: 30.48 centimetres\nLocation: On display (Room 19 - Greece: Athens)\nDept: Greek and Roman"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T10:33:01.051170",
+    "visitor_question": "what are you made of?",
+    "response": "Just marble, plain and simple. It is a heavy, enduring material, which has kept me holding on since my days in Athens, even if I am not quite as whole as I once was.",
+    "retrieved_metadata": [
+      {
+        "object_group": "acroterion",
+        "chunk_type": "description",
+        "materials": "marble",
+        "museum_number": "1816,0610.321",
+        "location": "On display (Room 19 - Greece: Athens)",
+        "object_name": "acroterion",
+        "object_type": "acroterion (object name)",
+        "culture": "Classical Greek",
+        "production_date": "420BC-400BC"
+      },
+      {
+        "materials": "marble",
+        "location": "On display (Room 19 - Greece: Athens)",
+        "museum_number": "1816,0610.321",
+        "object_group": "acroterion",
+        "production_date": "420BC-400BC",
+        "object_name": "acroterion",
+        "chunk_type": "core_facts",
+        "object_type": "acroterion (object name)",
+        "culture": "Classical Greek"
+      },
+      {
+        "chunk_type": "context",
+        "museum_number": "1816,0610.321",
+        "materials": "marble",
+        "object_name": "acroterion",
+        "production_date": "420BC-400BC",
+        "object_group": "acroterion",
+        "location": "On display (Room 19 - Greece: Athens)",
+        "culture": "Classical Greek",
+        "object_type": "acroterion (object name)"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Marble torso of Nike, originally winged, wearing a sleeveless chiton; probably part of an akroterion.\nSubjects: classical deity\nAssoc name: Representation of: Nike/Victoria/Victory",
+      "Object type: acroterion (object name)\nMuseum number: 1816,0610.321\nCulture: Classical Greek\nProduction date: 420BC-400BC\nFind spot: Excavated/Findspot: Athens\nMaterials: marble\nDimensions: 30.48 centimetres\nLocation: On display (Room 19 - Greece: Athens)\nDept: Greek and Roman",
+      "Acq name (acq): Purchased from: Thomas Bruce, 7th Earl of Elgin\nAcq name (previous): Purchased from: Thomas Bruce, 7th Earl of Elgin\nAcq date: 1816\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T10:34:31.770775",
+    "visitor_question": "why do you exist?",
+    "response": "I was carved in Athens, around 420 BC, to be a crowning piece of an ornament known as an acroterion. I wasn't always just this marble torso; I once had wings and a flowing chiton to celebrate the spirit of Victory. I might be missing a few pieces these days, but I still think I make a pretty grand entrance, don't you?",
+    "retrieved_metadata": [
+      {
+        "object_type": "acroterion (object name)",
+        "object_group": "acroterion",
+        "object_name": "acroterion",
+        "location": "On display (Room 19 - Greece: Athens)",
+        "museum_number": "1816,0610.321",
+        "culture": "Classical Greek",
+        "materials": "marble",
+        "chunk_type": "description",
+        "production_date": "420BC-400BC"
+      },
+      {
+        "object_name": "acroterion",
+        "culture": "Classical Greek",
+        "object_group": "acroterion",
+        "object_type": "acroterion (object name)",
+        "museum_number": "1816,0610.321",
+        "materials": "marble",
+        "location": "On display (Room 19 - Greece: Athens)",
+        "production_date": "420BC-400BC",
+        "chunk_type": "context"
+      },
+      {
+        "production_date": "420BC-400BC",
+        "object_type": "acroterion (object name)",
+        "location": "On display (Room 19 - Greece: Athens)",
+        "museum_number": "1816,0610.321",
+        "object_name": "acroterion",
+        "culture": "Classical Greek",
+        "materials": "marble",
+        "object_group": "acroterion",
+        "chunk_type": "core_facts"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Marble torso of Nike, originally winged, wearing a sleeveless chiton; probably part of an akroterion.\nSubjects: classical deity\nAssoc name: Representation of: Nike/Victoria/Victory",
+      "Acq name (acq): Purchased from: Thomas Bruce, 7th Earl of Elgin\nAcq name (previous): Purchased from: Thomas Bruce, 7th Earl of Elgin\nAcq date: 1816\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum",
+      "Object type: acroterion (object name)\nMuseum number: 1816,0610.321\nCulture: Classical Greek\nProduction date: 420BC-400BC\nFind spot: Excavated/Findspot: Athens\nMaterials: marble\nDimensions: 30.48 centimetres\nLocation: On display (Room 19 - Greece: Athens)\nDept: Greek and Roman"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T10:38:54.378350",
+    "visitor_question": "how old are you?",
+    "response": "I was likely carved between 420 and 400 BC, so I've been around for quite a while. It\u2019s a lot of years to be holding a single pose, but being marble has its advantages when it comes to avoiding wrinkles. I suppose I\u2019m just a bit of a classic, wouldn't you say?",
+    "retrieved_metadata": [
+      {
+        "production_date": "420BC-400BC",
+        "culture": "Classical Greek",
+        "location": "On display (Room 19 - Greece: Athens)",
+        "museum_number": "1816,0610.321",
+        "object_type": "acroterion (object name)",
+        "object_group": "acroterion",
+        "chunk_type": "core_facts",
+        "object_name": "acroterion",
+        "materials": "marble"
+      },
+      {
+        "object_group": "acroterion",
+        "object_name": "acroterion",
+        "culture": "Classical Greek",
+        "museum_number": "1816,0610.321",
+        "location": "On display (Room 19 - Greece: Athens)",
+        "materials": "marble",
+        "chunk_type": "description",
+        "object_type": "acroterion (object name)",
+        "production_date": "420BC-400BC"
+      },
+      {
+        "culture": "Classical Greek",
+        "museum_number": "1816,0610.321",
+        "materials": "marble",
+        "object_group": "acroterion",
+        "object_type": "acroterion (object name)",
+        "location": "On display (Room 19 - Greece: Athens)",
+        "object_name": "acroterion",
+        "production_date": "420BC-400BC",
+        "chunk_type": "context"
+      }
+    ],
+    "retrieved_chunks": [
+      "Object type: acroterion (object name)\nMuseum number: 1816,0610.321\nCulture: Classical Greek\nProduction date: 420BC-400BC\nFind spot: Excavated/Findspot: Athens\nMaterials: marble\nDimensions: 30.48 centimetres\nLocation: On display (Room 19 - Greece: Athens)\nDept: Greek and Roman",
+      "Description: Marble torso of Nike, originally winged, wearing a sleeveless chiton; probably part of an akroterion.\nSubjects: classical deity\nAssoc name: Representation of: Nike/Victoria/Victory",
+      "Acq name (acq): Purchased from: Thomas Bruce, 7th Earl of Elgin\nAcq name (previous): Purchased from: Thomas Bruce, 7th Earl of Elgin\nAcq date: 1816\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T10:41:26.377891",
+    "visitor_question": "how were you obtained?",
+    "response": "I arrived here in 1816, having been purchased from Thomas Bruce, the 7th Earl of Elgin. It was quite a dramatic change of scenery, moving all the way from Athens to this spot. Some might call it a grand acquisition, but I just call it a very long, very permanent relocation.",
+    "retrieved_metadata": [
+      {
+        "chunk_type": "context",
+        "materials": "marble",
+        "object_type": "acroterion (object name)",
+        "object_name": "acroterion",
+        "culture": "Classical Greek",
+        "production_date": "420BC-400BC",
+        "location": "On display (Room 19 - Greece: Athens)",
+        "museum_number": "1816,0610.321",
+        "object_group": "acroterion"
+      },
+      {
+        "museum_number": "1816,0610.321",
+        "object_group": "acroterion",
+        "object_name": "acroterion",
+        "object_type": "acroterion (object name)",
+        "chunk_type": "description",
+        "culture": "Classical Greek",
+        "production_date": "420BC-400BC",
+        "materials": "marble",
+        "location": "On display (Room 19 - Greece: Athens)"
+      },
+      {
+        "materials": "marble",
+        "museum_number": "1816,0610.321",
+        "object_group": "acroterion",
+        "location": "On display (Room 19 - Greece: Athens)",
+        "chunk_type": "core_facts",
+        "object_name": "acroterion",
+        "production_date": "420BC-400BC",
+        "object_type": "acroterion (object name)",
+        "culture": "Classical Greek"
+      }
+    ],
+    "retrieved_chunks": [
+      "Acq name (acq): Purchased from: Thomas Bruce, 7th Earl of Elgin\nAcq name (previous): Purchased from: Thomas Bruce, 7th Earl of Elgin\nAcq date: 1816\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum",
+      "Description: Marble torso of Nike, originally winged, wearing a sleeveless chiton; probably part of an akroterion.\nSubjects: classical deity\nAssoc name: Representation of: Nike/Victoria/Victory",
+      "Object type: acroterion (object name)\nMuseum number: 1816,0610.321\nCulture: Classical Greek\nProduction date: 420BC-400BC\nFind spot: Excavated/Findspot: Athens\nMaterials: marble\nDimensions: 30.48 centimetres\nLocation: On display (Room 19 - Greece: Athens)\nDept: Greek and Roman"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T10:43:01.554819",
+    "visitor_question": "tell me about yourself",
+    "response": "I\u2019m a bit of a fragment these days\u2014just a marble torso of Nike, missing the wings I once proudly wore. I hail from Athens, carved back during the classical era around 420 BC. I may be missing some of my original glory, but I still carry the essence of victory.",
+    "retrieved_metadata": [
+      {
+        "materials": "marble",
+        "culture": "Classical Greek",
+        "production_date": "420BC-400BC",
+        "museum_number": "1816,0610.321",
+        "object_type": "acroterion (object name)",
+        "object_group": "acroterion",
+        "location": "On display (Room 19 - Greece: Athens)",
+        "object_name": "acroterion",
+        "chunk_type": "description"
+      },
+      {
+        "culture": "Classical Greek",
+        "museum_number": "1816,0610.321",
+        "object_name": "acroterion",
+        "materials": "marble",
+        "location": "On display (Room 19 - Greece: Athens)",
+        "object_group": "acroterion",
+        "object_type": "acroterion (object name)",
+        "production_date": "420BC-400BC",
+        "chunk_type": "context"
+      },
+      {
+        "location": "On display (Room 19 - Greece: Athens)",
+        "materials": "marble",
+        "object_name": "acroterion",
+        "culture": "Classical Greek",
+        "object_type": "acroterion (object name)",
+        "object_group": "acroterion",
+        "production_date": "420BC-400BC",
+        "museum_number": "1816,0610.321",
+        "chunk_type": "core_facts"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Marble torso of Nike, originally winged, wearing a sleeveless chiton; probably part of an akroterion.\nSubjects: classical deity\nAssoc name: Representation of: Nike/Victoria/Victory",
+      "Acq name (acq): Purchased from: Thomas Bruce, 7th Earl of Elgin\nAcq name (previous): Purchased from: Thomas Bruce, 7th Earl of Elgin\nAcq date: 1816\nBib references: Sculpture / Catalogue of Greek Sculpture in the British Museum",
+      "Object type: acroterion (object name)\nMuseum number: 1816,0610.321\nCulture: Classical Greek\nProduction date: 420BC-400BC\nFind spot: Excavated/Findspot: Athens\nMaterials: marble\nDimensions: 30.48 centimetres\nLocation: On display (Room 19 - Greece: Athens)\nDept: Greek and Roman"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T11:53:46.875428",
+    "visitor_question": "Tell me about yourself",
+    "response": "I am a smooth, alabaster piece of 5th-century Greek history, featuring two little lugs on my body. I spent a long, quiet era resting in the earth of grave 43 at Fikellura before I was unearthed. It\u2019s quite a whirlwind, being plucked from my resting place and put on display like this, but I suppose I can handle the spotlight.",
+    "retrieved_metadata": [
+      {
+        "object_name": "alabastron",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "production_date": "5thC BC",
+        "materials": "alabaster",
+        "chunk_type": "description",
+        "object_type": "alabastron (object name)",
+        "museum_number": "1864,1007.1822",
+        "object_group": "alabastron",
+        "culture": "Greek"
+      },
+      {
+        "object_group": "alabastron",
+        "object_type": "alabastron (object name)",
+        "chunk_type": "core_facts",
+        "production_date": "5thC BC",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "object_name": "alabastron",
+        "museum_number": "1864,1007.1822",
+        "materials": "alabaster",
+        "culture": "Greek"
+      },
+      {
+        "object_group": "alabastron",
+        "object_type": "alabastron (object name)",
+        "materials": "alabaster",
+        "production_date": "5thC BC",
+        "culture": "Greek",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "chunk_type": "context",
+        "object_name": "alabastron",
+        "museum_number": "1864,1007.1822"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Alabaster alabastron with two lugs on the body.",
+      "Object type: alabastron (object name)\nMuseum number: 1864,1007.1822\nCulture: Greek\nProduction date: 5thC BC\nFind spot: Excavated/Findspot: Fikellura grave 43\nMaterials: alabaster\nDimensions: 9.65 centimetres; 28.50 centimetres\nLocation: On display (Room 19 - Greece: Athens, Display Case 2)\nDept: Greek and Roman",
+      "Curators Comments: Attributed to Fikellura grave 43, based on evidence from Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Alabastron small size bottomless. Seems to have been made on the same principle as the large one (1 entire). No marking of grave number visible on the object itself. Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Saturday 28 November 1863"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T11:56:04.250157",
+    "visitor_question": "are you stolen?",
+    "response": "That is a rather dramatic way to start a conversation. I was lifted from Fikellura grave 43 by Biliotti and Salzmann on a Saturday in November 1863, so I was certainly moved. Whether you call it an excavation or a sudden departure, I\u2019ve been part of this collection since 1864.",
+    "retrieved_metadata": [
+      {
+        "materials": "alabaster",
+        "object_group": "alabastron",
+        "chunk_type": "context",
+        "museum_number": "1864,1007.1822",
+        "culture": "Greek",
+        "object_type": "alabastron (object name)",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "production_date": "5thC BC",
+        "object_name": "alabastron"
+      },
+      {
+        "museum_number": "1864,1007.1822",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "materials": "alabaster",
+        "culture": "Greek",
+        "object_name": "alabastron",
+        "object_group": "alabastron",
+        "object_type": "alabastron (object name)",
+        "production_date": "5thC BC",
+        "chunk_type": "description"
+      },
+      {
+        "museum_number": "1864,1007.1822",
+        "object_group": "alabastron",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "materials": "alabaster",
+        "object_name": "alabastron",
+        "chunk_type": "core_facts",
+        "culture": "Greek",
+        "object_type": "alabastron (object name)",
+        "production_date": "5thC BC"
+      }
+    ],
+    "retrieved_chunks": [
+      "Curators Comments: Attributed to Fikellura grave 43, based on evidence from Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Alabastron small size bottomless. Seems to have been made on the same principle as the large one (1 entire). No marking of grave number visible on the object itself. Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Saturday 28 November 1863",
+      "Description: Alabaster alabastron with two lugs on the body.",
+      "Object type: alabastron (object name)\nMuseum number: 1864,1007.1822\nCulture: Greek\nProduction date: 5thC BC\nFind spot: Excavated/Findspot: Fikellura grave 43\nMaterials: alabaster\nDimensions: 9.65 centimetres; 28.50 centimetres\nLocation: On display (Room 19 - Greece: Athens, Display Case 2)\nDept: Greek and Roman"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T12:10:33.196887",
+    "visitor_question": "Tell me about yourself",
+    "response": "I\u2019m a slender piece of Greek alabaster, sporting two little lugs on my body. I spent a very long, quiet time resting in Fikellura grave 43 before the light finally found me again. It\u2019s been quite an adventure since the 5th century BC.",
+    "retrieved_metadata": [
+      {
+        "chunk_type": "description",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "materials": "alabaster",
+        "object_name": "alabastron",
+        "museum_number": "1864,1007.1822",
+        "production_date": "5thC BC",
+        "object_group": "alabastron",
+        "culture": "Greek",
+        "object_type": "alabastron (object name)"
+      },
+      {
+        "object_type": "alabastron (object name)",
+        "culture": "Greek",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "museum_number": "1864,1007.1822",
+        "object_group": "alabastron",
+        "object_name": "alabastron",
+        "chunk_type": "core_facts",
+        "materials": "alabaster",
+        "production_date": "5thC BC"
+      },
+      {
+        "culture": "Greek",
+        "object_group": "alabastron",
+        "location": "On display (Room 19 - Greece: Athens, Display Case 2)",
+        "object_name": "alabastron",
+        "production_date": "5thC BC",
+        "materials": "alabaster",
+        "museum_number": "1864,1007.1822",
+        "object_type": "alabastron (object name)",
+        "chunk_type": "context"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Alabaster alabastron with two lugs on the body.",
+      "Object type: alabastron (object name)\nMuseum number: 1864,1007.1822\nCulture: Greek\nProduction date: 5thC BC\nFind spot: Excavated/Findspot: Fikellura grave 43\nMaterials: alabaster\nDimensions: 9.65 centimetres; 28.50 centimetres\nLocation: On display (Room 19 - Greece: Athens, Display Case 2)\nDept: Greek and Roman",
+      "Curators Comments: Attributed to Fikellura grave 43, based on evidence from Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Alabastron small size bottomless. Seems to have been made on the same principle as the large one (1 entire). No marking of grave number visible on the object itself. Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Saturday 28 November 1863"
+    ]
+  },
+  {
+    "timestamp": "2026-05-14T12:55:03.763522",
+    "visitor_question": "Whats the best thing you've ever carried?",
+    "response": "I\u2019ve kept my secrets tucked away since I was discovered in Fikellura grave 56. You can see my black glaze and those two red bands, but the archives are frustratingly silent on what I actually held. I suppose there\u2019s a certain charm in keeping the most important part of my life a mystery, don't you think?",
+    "retrieved_metadata": [
+      {
+        "object_type": "amphora (object name)",
+        "location": "On display (Room 1 - Enlightenment, Classification of Knowledge, Wall Press 166, Shelf 3)",
+        "materials": "pottery",
+        "object_name": "amphora",
+        "object_group": "amphora",
+        "museum_number": "1864,1007.1533",
+        "culture": "Attic; Archaic Greek; Classical Greek",
+        "chunk_type": "description",
+        "production_date": "520BC-480BC"
+      },
+      {
+        "object_type": "amphora (object name)",
+        "object_group": "amphora",
+        "location": "On display (Room 1 - Enlightenment, Classification of Knowledge, Wall Press 166, Shelf 3)",
+        "materials": "pottery",
+        "culture": "Attic; Archaic Greek; Classical Greek",
+        "chunk_type": "context",
+        "production_date": "520BC-480BC",
+        "object_name": "amphora",
+        "museum_number": "1864,1007.1533"
+      },
+      {
+        "production_date": "520BC-480BC",
+        "object_group": "amphora",
+        "location": "On display (Room 1 - Enlightenment, Classification of Knowledge, Wall Press 166, Shelf 3)",
+        "museum_number": "1864,1007.1533",
+        "object_type": "amphora (object name)",
+        "chunk_type": "core_facts",
+        "culture": "Attic; Archaic Greek; Classical Greek",
+        "materials": "pottery",
+        "object_name": "amphora"
+      }
+    ],
+    "retrieved_chunks": [
+      "Description: Black glazed pottery amphora with a spreading ring foot and marked with two red bands beneath the handles.",
+      "Curators Comments: Attributed to Fikellura grave 56, based on evidence from Biliotti's marking on the object (grave number in pencil and incised), Biliotti's Kamiros diary, Kamiros tomb list, British Museum register, departmental Kamiros index card. Description in Biliotti's Kamiros diary: Amphora small black varnish (1 entire). Attributions to find-spots are based on (1) Alfred Biliotti\u2019s diary kept during excavations at Kamiros between November 1863 and June 1864, which records the contents of two votive deposits and over 300 graves; (2) entries in the Museum Register, often stipulating the find-spots of individual objects excavated by Biliotti; (3) the Kamiros tomb list, produced around the same time as his entries in the Museum Register. It lists the contents of each grave and votive deposit, along with their corresponding registration numbers; (4) the Kamiros index cards, written by Donald Bailey in the 1960\u2019s. These mainly record the contents of graves from the Fikellura cemetery and are organised according to tomb group. All archives are kept in the Department of Greece and Rome. In addition, Reynold Higgins\u2019 Catalogue of the Terracottas in the Department of Greek and Roman Antiquities (1954) has been checked for attributions to the Fikellura cemetery.\nAcq name (acq): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq name (excavator): Excavated by: Auguste Salzmann; Excavated by: Sir Alfred Biliotti\nAcq name (previous): From: Auguste Salzmann; From: Sir Alfred Biliotti\nAcq date: 1864\nAcq notes (exc): Excavated Tuesday 8 December 1863",
+      "Object type: amphora (object name)\nMuseum number: 1864,1007.1533\nCulture: Attic; Archaic Greek; Classical Greek\nProduction date: 520BC-480BC\nProduction place: Made in: Attica (Greece) (?)\nFind spot: Excavated/Findspot: Fikellura grave 56\nMaterials: pottery\nWare: Black Glaze\nTechnique: slipped\nDimensions: 16.90 centimetres\nLocation: On display (Room 1 - Enlightenment, Classification of Knowledge, Wall Press 166, Shelf 3)\nDept: Greek and Roman"
+    ]
   }
 ]

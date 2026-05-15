@@ -13,7 +13,7 @@ embedding_model = SentenceTransformer("sentence-transformers/all-MiniLM-L6-v2")
 client = chromadb.PersistentClient(path="./chroma_db")
 collection = client.get_collection("british_museum_objects")
 
-visitor_question = "How did you get into the museum?"
+visitor_question = "Where is the acrocup from?"
 
 query_embedding = embedding_model.encode(visitor_question).tolist()
 
